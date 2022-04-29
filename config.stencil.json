@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "apiHost": "https://api.bigcommerce.com",
+  "normalStoreUrl": "https://b2b-edition-sandbox-ayata.mybigcommerce.com/?ctk=5d38814f-5aa0-46f5-b6b1-0c510982d2f2",
+  "port": 3000
+}
